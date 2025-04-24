@@ -12,6 +12,7 @@ public class Sport {
     public Sport(int a, String nameA, String eventA){
         this.a = a;
         this.nameA = nameA;
+
         this.eventA = eventA;
     }
     public Sport(int b, String nameB){
