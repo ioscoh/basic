@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f3fafe1-eed7-43b3-83f1-d21adcaa93da" name="Changes" comment="베이직 두번째 숙제 제출">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arithmeticTool/ArithmeticTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arithmeticTool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arithmeticTool/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/art/Art.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/art/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artfair/Artfair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artfair/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/character/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/character/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/character/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coffee/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coffee/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newspaper/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newspaper/Newspaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sport/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sport/Sport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wedsite/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wedsite/Wedsite.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ioscoh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ioscoh/character.git&quot;,
+    &quot;accountId&quot;: &quot;402264d5-1ac0-4ce3-8af9-ff90aefd716a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2w4EcV3KROOlvhDzw1NPsYgXSNj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arithmeticTool.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.art.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.calculator.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.character.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/iseung-eun/IdeaProjects/character/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="애플리케이션.arithmeticTool.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newspaper.Main" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newspaper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arithmeticTool.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arithmeticTool.Main" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmeticTool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="art.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="art.Main" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="art.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculator.Main" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="character.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="character.Main" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="character.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f3fafe1-eed7-43b3-83f1-d21adcaa93da" name="Changes" comment="" />
+      <created>1745292524794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745292524794</updated>
+      <workItem from="1745292525794" duration="25581000" />
+      <workItem from="1745376856062" duration="120000" />
+      <workItem from="1745389919486" duration="3284000" />
+      <workItem from="1745403308388" duration="1501000" />
+      <workItem from="1745419284836" duration="3833000" />
+      <workItem from="1745472514242" duration="11000" />
+      <workItem from="1745472801957" duration="71000" />
+      <workItem from="1745473214547" duration="580000" />
+      <workItem from="1745474318334" duration="49348000" />
+      <workItem from="1745574022462" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="베이직 첫번쨰 숙제 제출">
+      <option name="closed" value="true" />
+      <created>1745460731859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745460731859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="베이직 첫번쨰 숙제 제출">
+      <option name="closed" value="true" />
+      <created>1745473422392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745473422392</updated>
+    </task>
+    <task id="LOCAL-00003" summary="베이직 첫번쨰 숙제 제출">
+      <option name="closed" value="true" />
+      <created>1745473592172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745473592172</updated>
+    </task>
+    <task id="LOCAL-00004" summary="베이직 두번째 숙제 제출">
+      <option name="closed" value="true" />
+      <created>1745572532480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745572532480</updated>
+    </task>
+    <task id="LOCAL-00005" summary="베이직 두번째 숙제 제출">
+      <option name="closed" value="true" />
+      <created>1745573872878</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745573872878</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="베이직 첫번쨰 숙제 제출" />
+    <MESSAGE value="베이직 두번째 숙제 제출" />
+    <option name="LAST_COMMIT_MESSAGE" value="베이직 두번째 숙제 제출" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
